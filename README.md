@@ -1,7 +1,7 @@
 # Kobo WASH Survey — Portfolio Project
 
 **What**  
-A complete KoboToolbox workflow: XLSForm, simulated dataset, simple analysis and visualizations for a household WASH (Water, Sanitation & Hygiene) survey.
+A complete KoboToolbox workflow: simulated dataset, simple analysis and visualizations for a household WASH (Water, Sanitation & Hygiene) survey.
 
 **Objective & Indicators**
 - Objective: Measure household WASH access in a small study area to identify gaps.
